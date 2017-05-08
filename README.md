@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+vue2.0 + axios + vuex
+
+数据来自豆瓣api
+
 ## Build Setup
 
 ``` bash
